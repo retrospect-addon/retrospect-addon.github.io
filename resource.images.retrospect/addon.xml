@@ -17,10 +17,13 @@
         <description lang="en_GB">Artwork and logos for the channels in Retrospect.</description>
         <source>https://github.com/basrieter/basrieter.github.io/tree/master/resource.images.retrospect</source>
         <license>CC-BY-NC-SA-4.0</license>
-        <news>Updated: NPO artwork (See #1441)</news>
+        <news>* Added: Retrospect banner.
+* Added: Kijk.nl poster art.
+        </news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
+            <banner>banner.jpg</banner>
         </assets>
     </extension>
 </addon>
