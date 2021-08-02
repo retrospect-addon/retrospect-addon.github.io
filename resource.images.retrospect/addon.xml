@@ -17,8 +17,7 @@
         <description lang="en_GB">Artwork and logos for the channels in Retrospect.</description>
         <source>https://github.com/basrieter/basrieter.github.io/tree/master/resource.images.retrospect</source>
         <license>CC-BY-NC-SA-4.0</license>
-        <news>Added: BVN.tv artwork (See #1507).
-Added: Cmore artwork (See #1525).</news>
+        <news>Moved: RTV Oost textures to RPO channel.</news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
