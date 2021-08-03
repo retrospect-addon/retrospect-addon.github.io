@@ -18,7 +18,8 @@
         <source>https://github.com/basrieter/basrieter.github.io/tree/master/resource.images.retrospect</source>
         <license>CC-BY-NC-SA-4.0</license>
         <news>* Moved: RTV Oost textures to RPO channel.
-* Changed: Moved RTV Rijnmond textures to RPO channel.</news>
+* Changed: Moved RTV Rijnmond textures to RPO channel.
+* Changed: Texture paths are not independent of the channel.</news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
